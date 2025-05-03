@@ -1,10 +1,3 @@
-# Government-Response-to-COVID-19-Data-Visualisation-Project-
-Visualising global government responses to COVID-19 using Tableau prep for data cleaning and Tableau Desktop for creating visualisations.  Canva was used to design supporting visuals. The project highlights policy measures and timelines across regions.
-
-
-
-
-
 # Government-Response-to-COVID-19-Data-Visualisation-Project
 
 ## Overview
@@ -16,7 +9,7 @@ This project visualises global government responses to the COVID-19 pandemic usi
 The following tools were employed to build this project:
 
 **Tableau Prep** – Used to clean, reshape and prepare the raw data for analysis  
-**Tableau Desktop** – Used to create the visual dashboards and interactive elements  
+**Tableau Desktop** – Used to create the visual diagrams  
 **Canva** – Used to design supplementary graphics and compose the final infographic poster
 
 ## Key Highlights
